@@ -1,28 +1,13 @@
-# Hey there :wave:
+### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+- 🎓 My key learning materials can be found on my YouTube channel at https://onboardtoazure.com
+- ☁️ I have a curated learning path at https://learn.onboardtoazure.com and a repo at [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials)
+- 🔎 Lots of repos around different projects, classes and random information. Take a look around!
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sans-kans/count.svg" />
-</p>
+Thanks for visiting!
 
-## About me
+☁️🤙💪
 
-I'm Sanskriti Kansal. 
-
-
-
-## Things I am passionate about
-
-
-
-## Get in touch :coffee:
-
-- Your future buddy to discuss data related things and tech in general on.
-- Your future life savior :stuck_out_tongue: on .
-- Your future employee on
-- And of course GitHub you're already on (Recursion).
 
 
 <!--
