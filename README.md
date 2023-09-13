@@ -4,6 +4,11 @@
 - ☁️ I have a curated learning path at https://learn.onboardtoazure.com and a repo at [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials)
 - 🔎 Lots of repos around different projects, classes and random information. Take a look around!
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sans-kans/count.svg" />
+</p>
+
 Thanks for visiting!
 
 ☁️🤙💪
