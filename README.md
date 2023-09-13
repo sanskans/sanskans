@@ -1,14 +1,15 @@
 ### Hello there 👋
 
 <p align="center">
-### 🌟 Passionate Data Analyst | 🌱 Open Source Enthusiast | 🚀 Community Builder
+  🌟 Passionate Data Analyst | 🌱 Open Source Enthusiast | 🚀 Community Builder
 </p>
 Welcome to my GitHub profile! I'm a dedicated data analyst with a passion for making data-driven decisions and fostering collaboration within the tech community. My journey in the world of data analytics has been guided by a love for open-source projects, technology that empowers people, and a strong commitment to community building.
 
 Thanks for stopping by! 🚀
 
 <p align="center"> 
-  Visitor count <img src="https://profile-counter.glitch.me/sans-kans/count.svg" />
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sans-kans/count.svg" />
 </p>
 
 Thanks for stopping by!
